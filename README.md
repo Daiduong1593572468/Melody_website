@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # melody Free Bootstrap SAAS Template
 
 ![melody](https://demo.themefisher.com/thumbnails/melody.png)
@@ -78,3 +79,6 @@ Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://them
 **Code License:** Released under the [MIT](https://github.com/themefisher/melody/blob/main/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
+=======
+# Melody_website
+>>>>>>> origin/main
